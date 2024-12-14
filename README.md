@@ -42,7 +42,7 @@ We welcome contributions from the community! Please follow these steps to contri
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Unlicense License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 - Special thanks to all contributors and the open-source community for their support.
